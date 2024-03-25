@@ -15,8 +15,8 @@
     #define MY_SSID "UA-Alumnos"
     #define MY_PASS "41umn05WLC"
 #elif (WIFI==2)                 //  Other place settings
-    #define MY_SSID "Afinador2.4"
-    #define MY_PASS "Eugenio10."
+    #define MY_SSID ""
+    #define MY_PASS ""
 #else
     #error  "WIFI symbol out of range"
 #endif
